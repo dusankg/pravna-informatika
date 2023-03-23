@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/WD17" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/WD17 ../schemas/akomantoso30.xsd">
+    <act name="Zakon o bezbjednosti saobraćaja na putevima">
+        <meta>
+            <identification source="#gostojic">
+                <FRBRWork>
+                    <FRBRthis value="/akn/rs/act/2009-41-1404/!main"/>
+                    <FRBRuri value="/akn/rs/act/2009-41-1404"/>
+                    <FRBRdate date="2009-05-29"/>
+                    <FRBRauthor href="#ns" as="#author"/>
+                    <FRBRcountry value="rs"/>
+                    <FRBRsubtype value="act"/>
+                    <FRBRnumber value="2009-41-1404"/>                    
+                    <FRBRname value="Закон о безбедности саобраћаја на путевима"/>
+                </FRBRWork>
+                <FRBRExpression>
+                    <FRBRthis value="/akn/rs/act/2009-41-1404/sr@2018-05-25/!main"/>
+                    <FRBRuri value="/akn/rs/act/2009-41-1404/sr@2018-05-25"/>
+                    <FRBRdate date="2018-05-25"/>
+                    <FRBRauthor href="#sg" as="#editor"/>
+                    <FRBRlanguage language="sr"/>
+                </FRBRExpression>
+                <FRBRManifestation>
+                    <FRBRthis value="/akn/rs/act/2009-41-1404/sr@2018-05-31/!main.xml"/>
+                    <FRBRuri value="/akn/rs/act/2009-41-1404/sr@2018-05-31/!main.akn"/>
+                    <FRBRdate date="2018-11-08"/>
+                    <FRBRauthor href="#gostojic" as="#generator"/>
+		    <FRBRformat value="xml"/>
+                </FRBRManifestation>
+            </identification>
+            <publication name="sg" date="2009-06-02" showAs="Службени гласник Републике Србије" number="41/2009"/>
+            <classification source="#gostojic">
+                <keyword value="traffic" showAs="Саобраћај, везе и енергетика" dictionary="RS"/>
+            </classification>
+            <references source="#gostojic">
+                <TLCRole eId="author" href="/akn/rs/ontology/role/author" showAs="Author"/>
+                <TLCRole eId="editor" href="/akn/rs/ontology/role/editor" showAs="Editor"/>
+                <TLCRole eId="generator" href="/akn/rs/ontology/role/generator" showAs="Generator"/>
+                <TLCOrganization eId="ns" href="/akn/rs/ontology/organization/ns" showAs="Народна скупштина Републике Србије"/>
+                <TLCOrganization eId="sg" href="/akn/rs/ontology/organization/sg" showAs="Службени гласник Републике Србије"/>
+                <TLCPerson eId="gostojic" href="/akn/rs/ontology/person/somebody" showAs="Стеван Гостојић"/>
+            </references>
+        </meta>
+        <body>
+	<!-- ... -->
+    <chapter eId="chp_3">
+        	<num>III.</num>
+                <heading>PRAVILA SAOBRAĆAJA</heading>
+		<!-- ... -->
+		<section eId="chp_3__sec_10">
+                	<num>10.</num>
+                	<heading>Preticanje i obilaženje</heading>
+			<!-- ... -->
+			<article eId="art_47">
+			        <num>Član 47.</num>
+        			<paragraph eId="art_47__para_1">
+            				<content eId="art_47__para_1__content">
+                				<p>Preticanje i obilaženje vrši se sa lijeve strane vozila koje se pretiče ili obilazi.</p>
+            				</content>
+        			</paragraph>
+        			<paragraph eId="art_47__para_2">
+            				<content eId="art_47__para_2__content">
+                				<p>Preticanje mora da se vrši sa desne strane ako je vozilo na kolovozu zauzelo takav položaj i njegov vozač daje znak da se sa
+sigurnošću može zaključiti da to vozilo skreće ulijevo.</p>
+            				</content>
+        			</paragraph>
+        			<paragraph eId="art_47__para_3">
+            				<content eId="art_47__para_3__content">
+                				<p>Vozilo koje se kreće po šinama postavljenim na sredini kolovoza ne smije da se pretiče sa lijeve strane.</p>
+            				</content>
+        			</paragraph>
+        			<paragraph eId="art_47__para_4">
+            				<content eId="art_47__para_4__content">
+                				<p>Na putu na kojem postoje najmanje dvije saobraćajne trake namijenjene za saobraćaj vozila u istom smjeru, brže kretanje
+vozila u jednoj traci od kretanja vozila u drugoj traci ne smatra se preticanjem.</p>
+            				</content>
+        			</paragraph>
+					<paragraph eId="art_47__para_5">
+            				<content eId="art_47__para_5__content">
+                				<p>Na putu u naselju na kojem postoje najmanje dvije saobraćajne trake namijenjene za saobraćaj vozila u istom smjeru,
+prolaženje sa desne strane vozila koje se ne kreće krajnjom desnom saobraćajnom trakom ne smatra se preticanjem.</p>
+            				</content>
+        			</paragraph>
+			</article>
+			
+			<article eId="art_48">
+			        <num>Član 48.</num>
+        			<paragraph eId="art_48__para_1">
+            				<content eId="art_48__para_1__content">
+                				<p>Vozač kome je dat znak za preticanje dužan je da pomjeri svoje vozilo ka desnoj ivici kolovoza.</p>
+            				</content>
+        			</paragraph>
+        			<paragraph eId="art_48__para_2">
+            				<content eId="art_48__para_2__content">
+                				<p>Vozač ne smije da povećava brzinu kretanja vozila dok ga drugo vozilo pretiče.</p>
+            				</content>
+        			</paragraph>
+			</article>
+			
+			<article eId="art_49">
+			        <num>Član 49.</num>
+        			<paragraph eId="art_49__para_1">
+            				<content eId="art_49__para_1__content">
+                				<p>Preticanje ili obilaženje vozač može da vrši samo ako time ne ometa normalno kretanje vozila koja dolaze iz suprotnog smjera
+i kad na putu ima dovoljno prostora za bezbjedno izvođenje radnji.</p>
+            				</content>
+        			</paragraph>
+        			<paragraph eId="art_49__para_2">
+            				<content eId="art_49__para_2__content">
+                				<p>Vozač ne smije da vrši preticanje ili obilaženje kad time može ugroziti druge učesnike u saobraćaju.</p>
+            				</content>
+        			</paragraph>
+        			<paragraph eId="art_49__para_3">
+            				<content eId="art_49__para_3__content">
+                				<p>Vozač ne smije vozilom da započne preticanje ili obilaženje:
+1) kolone vozila;
+2) ako je vozač koji se kreće iza njega otpočeo preticanje;
+3) ako je vozač ispred njega na istoj saobraćajnoj traci dao znak za preticanje ili obilaženje;
+4) ako bi time ugrozio bezbjednost saobraćaja ili ometao saobraćaj iz suprotnog smjera;
+5) ako po izvršenom preticanju ili obilaženju ne bi mogao da se vrati u saobraćajnu traku kojom se kretao bez ometanja ili
+ugrožavanja ostalih učesnika u saobraćaju;
+6) saobraćajnom trakom za prinudno zaustavljanje vozila;
+7) na početku prevoja, na prevoju, ispred i u nepreglednoj krivini, osim na kolovozu sa najmanje dvije saobraćajne trake za
+kretanje vozila u istom smjeru;
+8) u tunelu;
+9) vozila koje se približava pješačkom prelazu ili ga prelazi;
+10) vozila koje se zaustavilo ili zaustavlja radi propuštanja pješaka na pješačkom prelazu;
+11) neposredno ispred i na prelazu puta preko željezničke ili tramvajske pruge;
+12) vozila pod pratnjom;
+13) saobraćajnom trakom za spora vozila;
+14) na mjestu gdje je to zabranjeno saobraćajnom signalizacijom;
+15) na način da prelazi vozilom preko neisprekidane uzdužne linije pri čemu koristi saobraćajnu traku namijenjenu za kretanje
+vozila iz suprotnog smjera.</p>
+            				</content>
+        			</paragraph>
+        			<paragraph eId="art_49__para_4">
+            				<content eId="art_49__para_4__content">
+                				<p>Obilaženje zaustavljene kolone na putu je zabranjeno ako se vozač nakon obilaženja ne bi mogao bezbjedno uključiti na
+saobraćajnu traku namijenjenu kretanju vozila u smjeru u kojem se kreće..</p>
+            				</content>
+        			</paragraph>
+					<paragraph eId="art_49__para_5">
+            				<content eId="art_49__para_5__content">
+                				<p>Izuzetno, obilaženje u slučaju iz stava 3 tačka 15 ovog člana dozvoljeno je pod uslovima iz stava 1 ovog člana.</p>
+            				</content>
+        			</paragraph>
+					<paragraph eId="art_49__para_6">
+            				<content eId="art_49__para_6__content">
+                				<p>Vozač koji pretiče dužan je da svoje vozilo drži na potrebnom rastojanju i odstojanju od vozila koje pretiče, tako da ga ne
+ometa niti ugrožava druge učesnike u saobraćaju.</p>
+            				</content>
+        			</paragraph>					
+			</article>
+			
+			<article eId="art_50">
+			        <num>Član 50.</num>
+        			<paragraph eId="art_50__para_1">
+            				<content eId="art_50__para_1__content">
+                				<p>Poslije preticanja ili obilaženja jednog ili više vozila vozač je dužan, čim bude moguće da to učini bez ometanja ili ugrožavanja
+ostalih učesnika u saobraćaju, da vozilom ponovo zauzme položaj na saobraćajnoj traci kojom se kretao prije preticanja,
+odnosno obilaženja.</p>
+            				</content>
+        			</paragraph>
+			</article>	
+
+			<article eId="art_51">
+			        <num>Član 51.</num>
+        			<paragraph eId="art_51__para_1">
+            				<content eId="art_51__para_1__content">
+                				<p>Vozač ne smije da pretiče drugo vozilo neposredno ispred raskrsnice ili na raskrsnici koja nije sa kružnim tokom saobraćaja.</p>
+            				</content>
+        			</paragraph>
+        			<paragraph eId="art_51__para_2">
+            				<content eId="art_51__para_2__content">
+                				<p>Neposredno ispred raskrsnice i na raskrsnici, u slučaju kad se kreće putem sa prvenstvom prolaza, vozač može da pretiče:
+1) vozilo koje skreće ulijevo, a pretiče ga sa desne strane;
+2) vozilo koje skreće udesno, ali da pri tom svojim vozilom ne prelazi na dio kolovoza namijenjen za saobraćaj vozila iz
+suprotnog smjera;
+3) vozilo koje se kreće raskrsnicom na kojoj je saobraćaj regulisan svjetlosnim saobraćajnim znakovima ili znacima koje daje
+ovlašćeni policijski službenik;
+4) bicikl, moped ili motocikl.</p>
+            				</content>
+        			</paragraph>
+					
+			</article>
+
+			<article eId="art_52">
+			        <num>Član 52.</num>
+        			<paragraph eId="art_52__para_1">
+            				<content eId="art_52__para_1__content">
+                				<p>Ako se na sredini kolovoza nalazi površina koja nije namijenjena za saobraćaj vozila, objekat ili uređaj, vozila moraju da ih
+obilaze sa desne strane.</p>
+            				</content>
+        			</paragraph>
+        			<paragraph eId="art_52__para_2">
+            				<content eId="art_52__para_2__content">
+                				<p>Površine, objekti ili uređaji iz stava 1 ovog člana koji se nalaze na sredini puta sa jednosmjernim saobraćajem mogu da se
+obilaze sa obje strane, ako saobraćajnim znakom nije drukčije određeno.</p>
+            				</content>
+        			</paragraph>
+					
+			</article>			
+			<!-- ... -->
+		</section>
+		<!-- ... -->
+	</chapter>
+	<!-- ... -->
+	<chapter eId="chp_21">
+        	<num>XVI.</num>
+                <heading>KAZNENE ODREDBE</heading>
+		<!-- ... -->
+		<section eId="chp_21__sec_1">
+			<num>1.</num>
+			<heading>Prekršajne kazne</heading>
+			<!-- ... -->
+			
+			<article eId="art_318">
+			        <num>Član 318.</num>
+				<paragraph eId="art_318__para_1">
+					<intro eId="art_318__para_1__intro">
+						<p>Novčanom kaznom u iznosu od 300 eura do 1.000 eura ili kaznom zatvora do 60 dana kazniće se za prekršaj:</p>
+					</intro>
+					<!-- ... -->
+					<point eId="art_321__para_1__point_5">
+						<num>5)</num>
+						<content>
+							<p>vozač koji započne preticanje ili obilaženje ako time ugrozi bezbjednost saobraćaja ili omete saobraćaj iz suprotnog smjera<ref href="/akn/rs/act/zob#art_49">(član 49 stav 3 tačka 4);</ref>,</p>
+						</content>
+					</point>
+					
+					<point eId="art_321__para_1__point_6">
+						<num>6)</num>
+						<content>
+							<p>vozač koji započne preticanje ili obilaženje na početku prevoja, na prevoju, u nepreglednoj krivini ili u tunelu<ref href="/akn/rs/act/zob#art_49">(član 49 stav 3
+tač. 7 i 8);</ref>,</p>
+						</content>
+					</point>
+					<!-- ... -->
+				</paragraph>
+			</article>
+			
+			<article eId="art_319">
+			        <num>Član 319.</num>
+				<paragraph eId="art_319__para_1">
+					<intro eId="art_319_para_1__intro">
+						<p>Novčanom kaznom u iznosu od 150 eura do 400 eura kazniće se za prekršaj:</p>
+					</intro>
+					<!-- ... -->
+					<point eId="art_321__para_1__point_2">
+						<num>2)</num>
+						<content>
+							<p>vozač koji započne preticanje ili obilaženje ako po izvršenom preticanju ili obilaženju ne može da se vrati u saobraćajnu
+traku kojom se kretao bez ometanja ili ugrožavanja ostalih učesnika u saobraćaju<ref href="/akn/rs/act/zob#art_49">(član 49 stav 3 tačka 5);</ref>,</p>
+						</content>
+					</point>
+					<!-- ... -->
+				</paragraph>
+			</article>
+			
+		    <article eId="art_320">
+			        <num>Члан 320.</num>
+				<paragraph eId="art_320__para_1">
+					<intro eId="art_320__para_1__intro">
+						<p>Novčanom kaznom u iznosu od 120 eura do 400 eura kazniće se za prekršaj:</p>
+					</intro>
+					<!-- ... -->
+					<point eId="art_320__para_1__point_9">
+						<num>9)</num>
+						<content>
+							<p>vozač koji sa lijeve strane pretiče vozilo koje je na kolovozu zauzelo takav položaj i čiji vozač daje takav znak da se sa
+sigurnošću može zaključiti da to vozilo skreće ulijevo<ref href="/akn/rs/act/zob#art_47">(član 47 stav 2)</ref>,</p>
+						</content>
+					</point>
+					
+					<point eId="art_320__para_1__point_10">
+						<num>10)</num>
+						<content>
+							<p>vozač koji sa lijeve strane pretiče vozilo koje se kreće po šinama postavljenim na sredini kolovoza<ref href="/akn/rs/act/zob#art_47">(član 47 stav 3)</ref>,</p>
+						</content>
+					</point>
+
+					<point eId="art_320__para_1__point_10a">
+						<num>10a)</num>
+						<content>
+							<p>vozač kome je dat znak za preticanje, ako ne pomjeri svoje vozilo ka desnoj ivici kolovoza<ref href="/akn/rs/act/zob#art_48">(član 48 stav 1)</ref>,</p>
+						</content>
+					</point>
+
+					<point eId="art_320__para_1__point_11">
+						<num>11)</num>
+						<content>
+							<p>vozač koji povećava brzinu kretanja svog vozila dok ga drugo vozilo pretiče<ref href="/akn/rs/act/zob#art_48">(član 48 stav 2)</ref>,</p>
+						</content>
+					</point>
+
+					<point eId="art_320__para_1__point_12">
+						<num>12)</num>
+						<content>
+							<p>vozač koji otpočne preticanje ili obilaženje kolone vozila<ref href="/akn/rs/act/zob#art_49">(član 49 stav 3 tačka 1)</ref>,</p>
+						</content>
+					</point>
+
+					<point eId="art_320__para_1__point_13">
+						<num>13)</num>
+						<content>
+							<p>vozač koji otpočne preticanje ili obilaženje kada je vozač vozila koje se kreće iza njega otpočeo preticanje<ref href="/akn/rs/act/zob#art_49">(član 49 stav 3 tačka 2)</ref>,</p>
+						</content>
+					</point>
+
+					<point eId="art_320__para_1__point_14">
+						<num>14)</num>
+						<content>
+							<p>vozač koji otpočne preticanje ili obilaženje kada je vozač vozila koje se na istoj saobraćajnoj traci kreće ispred njega dao
+znak za preticanje ili obilaženje<ref href="/akn/rs/act/zob#art_49">(član 49 stav 3 tačka 3)</ref>,</p>
+						</content>
+					</point>
+
+					<point eId="art_320__para_1__point_16">
+						<num>15)</num>
+						<content>
+							<p>vozač koji započne preticanje ili obilaženje saobraćajnom trakom za prinudno zaustavljanje vozila<ref href="/akn/rs/act/zob#art_49">(član 49 stav 3 tačka 6)</ref>,</p>
+						</content>
+					</point>
+					
+					<point eId="art_320__para_1__point_16">
+						<num>16)</num>
+						<content>
+							<p>vozač koji otpočne preticanje ili obilaženje vozila koje se približava pješačkom prelazu ili ga prelazi ili vozila koje se zaustavilo
+ili zaustavlja radi propuštanja pješaka na pješačkom prelazu<ref href="/akn/rs/act/zob#art_49">(član 49 stav 3 tač. 9 i 10)</ref>,</p>
+						</content>
+					</point>
+					
+					<point eId="art_320__para_1__point_17">
+						<num>17)</num>
+						<content>
+							<p>vozač koji započne preticanje ili obilaženje drugog vozila neposredno ispred i na prelazu puta preko željezničke ili
+tramvajske pruge ili vozila pod pratnjom<ref href="/akn/rs/act/zob#art_49">(član 49 stav 3 tač. 11 i 12)</ref>,</p>
+						</content>
+					</point>
+					
+					<point eId="art_320__para_1__point_18">
+						<num>18)</num>
+						<content>
+							<p>vozač koji pretiče drugo vozilo neposredno ispred raskrsnice ili na raskrsnici koja nije sa kružnim tokom saobraćaja
+suprotno;<ref href="/akn/rs/act/zob#art_51">članu 51 ovog zakona</ref>,</p>
+						</content>
+					</point>
+					
+					<!-- ... -->
+				</paragraph>
+			</article>
+			
+			
+		    <article eId="art_321">
+			        <num>Član 321.</num>
+				<paragraph eId="art_321__para_1">
+					<intro eId="art_321__para_1__intro">
+						<p>Novčanom kaznom u iznosu od 90 eura do 250 eura kazniće se za prekršaj:</p>
+					</intro>
+					<!-- ... -->
+					<point eId="art_321__para_1__point_6">
+						<num>6)</num>
+						<content>
+							<p>vozač koji započne preticanje ili obilaženje drugog vozila saobraćajnom trakom za spora vozila ili na mjestu gdje je to
+zabranjeno saobraćajnom signalizacijom<ref href="/akn/rs/act/zob#art_49">(član 49 stav 3 tač. 13 i 14);</ref>,</p>
+						</content>
+					</point>
+					
+					<point eId="art_321__para_1__point_7">
+						<num>7)</num>
+						<content>
+							<p>vozač koji započne preticanje ili obilaženje na način da vozilom prelazi preko neisprekidane uzdužne linije pri čemu koristi
+saobraćajnu traku namijenjenu za kretanje vozila iz suprotnog smjera<ref href="/akn/rs/act/zob#art_49">(član 49 stav 3 tač 15);</ref>,</p>
+						</content>
+					</point>
+
+					<!-- ... -->
+				</paragraph>
+			</article>
+
+		    <article eId="art_322">
+			        <num>Član 322.</num>
+				<paragraph eId="art_322__para_1">
+					<intro eId="art_322__para_1__intro">
+						<p>Novčanom kaznom u iznosu od 80 eura do 250 eura kazniće se za prekršaj:</p>
+					</intro>
+					<!-- ... -->
+					<point eId="art_321__para_1__point_13">
+						<num>13)</num>
+						<content>
+							<p>vozač koji započne obilaženje zaustavljene kolone na putu koji se nakon toga ne može bezbjedno uključiti na saobraćajnu
+traku namijenjenu kretanju vozila u smjeru u kojem se kreće<ref href="/akn/rs/act/zob#art_49">(član 49 stav 4);</ref>,</p>
+						</content>
+					</point>
+					
+					<point eId="art_321__para_1__point_14">
+						<num>14)</num>
+						<content>
+							<p>vozač koji pretiče drugo vozilo, a svoje vozilo ne drži na potrebnom rastojanju ili odstojanju od vozila koje pretiče, tako da
+ga ne ometa ili ugrožava druge učesnike u saobraćaju<ref href="/akn/rs/act/zob#art_49">(član 49 stav 6);</ref>,</p>
+						</content>
+					</point>
+					
+					<point eId="art_321__para_1__point_15">
+						<num>15)</num>
+						<content>
+							<p>vozač koji nakon preticanja ili obilaženja, čim to bude moguće, vozilom ne zauzme položaj na saobraćajnoj traci kojom se
+kretao prije preticanja, odnosno obilaženja, a da time ne ometa ili ugrožava ostale učesnike u saobraćaju<ref href="/akn/rs/act/zob#art_50">(član 50);</ref>,</p>
+						</content>
+					</point>
+					
+					<point eId="art_321__para_1__point_16">
+						<num>16)</num>
+						<content>
+							<p>vozač koji objekat, uređaj ili površinu koja nije namijenjena za saobraćaj vozila, a nalazi se na sredini kolovoza, ne obilazi
+sa desne strane<ref href="/akn/rs/act/zob#art_52">(član 52 stav 1);</ref>,</p>
+						</content>
+					</point>
+
+					<!-- ... -->
+				</paragraph>
+			</article>			
+			<!-- ... -->
+		</section>
+	<!-- ... -->
+	</chapter>
+	<!-- ... -->
+        </body>
+    </act>
+</akomaNtoso>
